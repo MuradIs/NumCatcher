@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NumCatcher</string>
+    <string name="start">Start</string>
+    <string name="_0">0</string>
+    <string name="catch_">Catch</string>
+    <string name="_6">6</string>
+    <string name="live">live</string>
+    <string name="support">Support</string>
+</resources>
